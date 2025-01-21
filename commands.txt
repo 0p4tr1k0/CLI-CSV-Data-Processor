@@ -1,0 +1,5 @@
+gcc main.c csv.c -o databaze -g
+
+./databaze --output modified.csv --input input.csv
+
+valgrind ./databaze --output modified.csv --input input.csv
