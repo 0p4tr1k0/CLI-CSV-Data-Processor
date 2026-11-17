@@ -124,5 +124,3 @@ Data saved to modified.csv. Memory freed. Goodbye!
 **Patrik Mlčák**
 
 * [GitHub](https://github.com/0p4tr1k0)
-
-* [LinkedIn](https://linkedin.com/in/[DOPLN_SVE_URL])
